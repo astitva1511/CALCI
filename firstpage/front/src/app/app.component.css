@@ -1,0 +1,77 @@
+body{
+    background:white;
+    color : white;
+    margin: 0;
+    padding:0;
+}
+nav{
+    color :#fcfcfc;
+    
+}
+header{
+    background-size: 100%;
+    background-position: center;
+    background-image: url("https://uaw.org/wp-content/uploads/2020/03/corona-4930266-850x287.jpg");
+    height:120px;
+    background-color: yellowgreen;
+    padding :20px;
+    text-align: center;
+}
+header a{
+    color :#31fb2a;
+    margin-top: 40px;
+    font-size: x-large;
+
+}
+.Logo {
+    background-image: url("https://i.pinimg.com/originals/d2/a8/eb/d2a8eb0b4b4e790c300e72cf7deff03c.png") ;
+    background-size: 100px;
+    display: inline-block;
+    height: 140px;
+    position: relative;
+    text-indent: -10000px;
+    background-repeat: no-repeat;
+    width: 100px;
+    top: -30px;
+}
+nav ul{
+    list-style-type:none ;
+
+}
+nav li{
+    display: inline-block;
+    margin-right: 50px;
+
+}
+
+
+img {
+    height: 100px;
+    
+}
+.coronaFeatures{
+    border-top-width: 1000px;
+    margin-top: 310px;
+    background-color: rgb(207, 236, 220);
+    color: grey;
+    padding: 20px;
+    display:flex;
+}
+.coronaFeatures figure{
+    text-align: center;
+    margin: auto;
+    text-transform: uppercase;
+}
+.coronaFeatures figure img{
+    border: 1px solid cadetblue;
+    border-radius: 50%;
+    box-shadow: 0 0 10px;
+ }
+
+footer h2{
+    background-color: wheat;
+    text-align: center;
+    color: black;
+    margin-top: 0px;
+    text-shadow: 1px;
+}
